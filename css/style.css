@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+}
+
+.redbackground {
+    background-color: rgb(208, 37, 37);
+}
+
+.orangebackground {
+    background-color: rgb(237, 159, 16);
+}
+
+.yellowbackground {
+    background-color: rgb(214, 208, 24);
+}
+
+.greenbackground {
+    background-color: rgb(48, 178, 43);
+}
+
+.bluebackground {
+    background-color: rgb(37, 138, 189);
+}
+
+.indigobackground {
+    background-color: indigo;
+}
+
+.violetbackground {
+    background-color: rgb(161, 99, 161);
+}
+
+.h1titles {font-family: 'Cormorant Garamond', serif;
+             font-size: 130px;
+            font-weight: lighter;
+            color: black;
+            text-align: center
+}
+
+.h2titles {font-family: 'Cormorant Garamond', serif;;
+            font-size: 80px;
+        font-weight: lighter;
+        color: black); 
+            line-height: 1.5em;
+            text-align: center}
+
+.h3titles {font-family: 'Cormorant Garamond', serif;;
+                font-size: 50px;
+            font-weight: lighter;
+            color: black; 
+                line-height: 1.5em;
+                text-align: center}
+    
+
+a {color: black;  
+}
+
+
+main {
+    margin-right: 30px;
+    margin-left: 30px;
+}
